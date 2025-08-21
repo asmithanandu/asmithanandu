@@ -7,9 +7,16 @@
 </h1>
 <h3 align="center">CS Student | Learning by Building | Aspiring Software Developer</h3>
 
+<p align="center">
+  Follow my learning journey on  
+  <a href="https://www.linkedin.com/in/asmitha-indrapally-874372274/">LinkedIn</a> and  
+  <a href="https://www.naukri.com/code360/profile/asmithanandu">Codingninjas</a>
+</p>
+
+
 ---
 
-### 👩‍💻 About Me  
+### Ongoing Initiatives  
 -  I’m currently working on **Data Structures & Algorithms**  
 -  I’m learning **Java, Python, C, and Web Development**  
 -  Exploring **GitHub projects** and **real-world software practices**  
