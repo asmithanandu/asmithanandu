@@ -2,7 +2,7 @@
 <h1 align="center">
   Hello, I am
   <a href="https://www.linkedin.com/in/asmitha-indrapally-874372274/" target="_blank" style="text-decoration:none; color:inherit;">
-   Asmitha 👩‍💻
+   Asmitha 
   </a>
 </h1>
 <h3 align="center">CS Student | Learning by Building | Aspiring Software Developer</h3>
@@ -41,11 +41,14 @@
 
 ### 📂 Popular Repositories  
 <p align="left">
-  <a href="https://github.com/asmithanandu/DSA-codes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asmithanandu&repo=DSA-codes&theme=radical" />
+  <a href="https://github.com/asmithanandu/detectionofimage.git">
+    detectionofimage 
+<br>
   </a>
-  <a href="https://github.com/asmithanandu/Data-Structure-Cpp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asmithanandu&repo=Data-Structure-Cpp&theme=radical" />
+</br>
+  </a>
+  <a href="https://github.com/asmithanandu/graduate-admission-prediction-using-regression-and-predictive-analysis.git">
+    graduate-admission-prediction-using-regression-and-predictive-analysis
   </a>
 </p>
 
